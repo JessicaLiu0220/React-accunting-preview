@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-accunting-preview/static/css/main.9166efc3.chunk.css",
+    "main.js": "/React-accunting-preview/static/js/main.cbf972e0.chunk.js",
+    "main.js.map": "/React-accunting-preview/static/js/main.cbf972e0.chunk.js.map",
+    "runtime-main.js": "/React-accunting-preview/static/js/runtime-main.bedcabb2.js",
+    "runtime-main.js.map": "/React-accunting-preview/static/js/runtime-main.bedcabb2.js.map",
+    "static/js/2.6fe99002.chunk.js": "/React-accunting-preview/static/js/2.6fe99002.chunk.js",
+    "static/js/2.6fe99002.chunk.js.map": "/React-accunting-preview/static/js/2.6fe99002.chunk.js.map",
+    "index.html": "/React-accunting-preview/index.html",
+    "precache-manifest.75e9d1033b986c715b8430ce24d70963.js": "/React-accunting-preview/precache-manifest.75e9d1033b986c715b8430ce24d70963.js",
+    "service-worker.js": "/React-accunting-preview/service-worker.js",
+    "static/css/main.9166efc3.chunk.css.map": "/React-accunting-preview/static/css/main.9166efc3.chunk.css.map",
+    "static/js/2.6fe99002.chunk.js.LICENSE.txt": "/React-accunting-preview/static/js/2.6fe99002.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bedcabb2.js",
+    "static/js/2.6fe99002.chunk.js",
+    "static/css/main.9166efc3.chunk.css",
+    "static/js/main.cbf972e0.chunk.js"
+  ]
+}
